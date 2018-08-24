@@ -23,6 +23,10 @@ class ViewController: UIViewController {
     func ozkan() {
         
     }
+    
+    func remoteGithub () {
+        
+    }
 
 
 }
